@@ -1,0 +1,14 @@
+{  
+    "Infosys": {  
+        "price": 1200,   
+        "no_of_shares": 20,   
+    } ,
+    "TCS": {  
+        "price": 500,   
+        "no_of_shares": 5,  
+    } ,  
+    "Airtel": {  
+        "price": 2000,   
+        "no_of_shares": 10,   
+    } ,  
+}  

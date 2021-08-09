@@ -1,0 +1,17 @@
+{  
+    "Rice": {  
+        "Price":       35,   
+        "Weight":      20,   
+        "Name":    "White rice"  
+    } ,
+    "Pulses": {  
+        "Price":       20,   
+        "Weight":      5,   
+        "Name":    "Green beans"  
+    } ,  
+    "Wheat": {  
+        "Price":       30,   
+        "Weight":      10,   
+        "Name":    "Aashirvaad"  
+    } ,  
+}  
