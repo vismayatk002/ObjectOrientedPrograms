@@ -1,13 +1,16 @@
 {  
     "Infosys": {  
+    	"symbol":"INFY",
         "price": 1200,   
         "no_of_shares": 20,   
     } ,
-    "TCS": {  
+    "TCS": {
+    	"symbol":"TATATECH",
         "price": 500,   
         "no_of_shares": 5,  
     } ,  
-    "Airtel": {  
+    "Airtel": {
+    	"symbol":"AIRTEL",
         "price": 2000,   
         "no_of_shares": 10,   
     } ,  
